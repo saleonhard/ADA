@@ -2,9 +2,13 @@
 
 Bem-vindo ao projeto **ADA - Agenda Digital Acadêmica**! 📚✨ Este projeto foi desenvolvido como parte do meu curso técnico em informática e tem como objetivo facilitar a organização de tarefas e compromissos acadêmicos para estudantes.
 
-![image](https://github.com/user-attachments/assets/62f6b243-a72b-424c-a31d-519a2d049db8)
-![image](https://github.com/user-attachments/assets/f4c82a8d-52be-4d38-b559-c9a4868c7f37)
+<div style="display: flex; justify-content: center; align-items: center;">
 
+  <img src="https://github.com/user-attachments/assets/62f6b243-a72b-424c-a31d-519a2d049db8" alt="Imagem 1" style="height: 200px; margin-right: 10px;">
+  
+  <img src="https://github.com/user-attachments/assets/f4c82a8d-52be-4d38-b559-c9a4868c7f37" alt="Imagem 2" style="height: 200px;">
+
+</div>
 
 ## Descrição do Projeto
 
