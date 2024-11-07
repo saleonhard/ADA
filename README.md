@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaleonhard%2FADA&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # ADA - Agenda Digital Acadêmica (2015)
 
 Bem-vindo ao projeto **ADA - Agenda Digital Acadêmica**! 📚✨ Este projeto foi desenvolvido como parte do meu curso técnico em informática e tem como objetivo facilitar a organização de tarefas e compromissos acadêmicos para estudantes.
